@@ -4,6 +4,7 @@
     "workbench.editor.enablePreview": false,
     "git.enableSmartCommit": true,
     "window.menuBarVisibility": "hidden",
+    "workbench.startupEditor": "none",
     // This is for caps lock to work for vim
     "keyboard.dispatch": "keyCode",
 
