@@ -9,6 +9,7 @@
     "keyboard.dispatch": "keyCode",
 
     // VsCodeVim settings
+    "vim.useSystemClipboard": true,
     "vim.useCtrlKeys": true,
     "vim.handleKeys": {
         "<C-a>": false,
@@ -23,5 +24,6 @@
     // Font settings
     "editor.fontFamily": "'Fira Code'",
     "editor.fontSize": 13,
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "explorer.confirmDragAndDrop": false
 }
