@@ -1,14 +1,15 @@
 {
-    // General
+    "_comment_QpQZ9x": "General",
     "editor.minimap.enabled": false,
     "workbench.editor.enablePreview": false,
     "git.enableSmartCommit": true,
     "window.menuBarVisibility": "hidden",
     "workbench.startupEditor": "none",
-    // This is for caps lock to work for vim
+
+    "_comment_uHeG74": "This is for caps lock to work for vim",
     "keyboard.dispatch": "keyCode",
 
-    // VsCodeVim settings
+    "_comment_Da6bBX": "VsCodeVim settings",
     "vim.useSystemClipboard": true,
     "vim.useCtrlKeys": true,
     "vim.handleKeys": {
@@ -17,11 +18,11 @@
         "<C-w>": false
     },
     
-    // Icons
+    "_comment_w6fTPD": "Icons",
     "workbench.iconTheme": "vscode-icons",
     "vsicons.dontShowNewVersionMessage": true,
 
-    // Font settings
+    "_comment_TFm4zU": "Font Settings",
     "editor.fontFamily": "'Fira Code'",
     "editor.fontSize": 13,
     "editor.fontLigatures": true,
