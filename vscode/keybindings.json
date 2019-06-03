@@ -17,7 +17,7 @@
         "command": "workbench.action.terminal.focusPrevious"
     },
     {
-        "key": "ctrl+shift+alt+t",
+        "key": "ctrl+shift+alt+n",
         "command": "workbench.action.terminal.new"
     },
     {
