@@ -1,0 +1,7 @@
+[user]  
+	name = Ash Kumar 
+[alias] 
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit 
+	upstream-push = ! git rev-parse --abbrev-ref HEAD | git push -u origin 
+[core]
+	editor = vim
